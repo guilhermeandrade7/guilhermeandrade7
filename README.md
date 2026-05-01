@@ -14,7 +14,6 @@
 - Church 
 
 
-Coloque
 
 **🧰 Current stack**  
 <div>  
