@@ -11,7 +11,7 @@
 - Basketball
 - Tecnology
 - Soccer
-- Church 
+- Catholic Church 
 
 
 
